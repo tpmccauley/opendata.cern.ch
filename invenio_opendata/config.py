@@ -23,7 +23,6 @@ PACKAGES = [
 	"invenio_opendata.base",
     "invenio_opendata.modules.*",
     "invenio.modules.*",
-    "invenio.base"
 ]
 
 PACKAGES_EXCLUDE = [
